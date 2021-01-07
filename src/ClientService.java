@@ -1,9 +1,9 @@
 public class ClientService {
 
     public static void main(String[] args) {
-        ServiceError[] errors = new ServiceError[]{new Error1(1, "Error1"),
-                new Error2(2, "Invalid request"), new Error3(3, "Memory leak"),
-                new Error1(1, "Latency error")};
+        ServiceError[] errors = new ServiceError[]{new Error1(1, "Circuit open while calling downstream"),
+                new Error2(2, "Invalid request"), new Error3(3, "Memory stack full"),
+                new Error1(1, "Latency threshold breach")};
 
         handleErrors(errors);
     }

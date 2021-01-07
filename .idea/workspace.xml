@@ -20,22 +20,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunManager">
     <configuration name="ClientService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClientService" />
       <module name="VisitorPattern" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -54,8 +48,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609910399141</updated>
-      <workItem from="1609910401630" duration="2000" />
+      <workItem from="1609910401630" duration="225000" />
+      <workItem from="1609910637897" duration="18000" />
+      <workItem from="1609910666138" duration="286000" />
+      <workItem from="1609940095910" duration="222000" />
+      <workItem from="1609940365090" duration="366000" />
+      <workItem from="1609949855054" duration="216000" />
+      <workItem from="1609950275403" duration="28000" />
+      <workItem from="1609950476120" duration="47000" />
+      <workItem from="1609950544825" duration="13000" />
+      <workItem from="1609950588240" duration="5000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
